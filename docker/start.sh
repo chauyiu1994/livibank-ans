@@ -1,0 +1,1 @@
+java -jar livibank-ans-1.0.0-SNAPSHOT.jar com.chauyiu1994.livibankans.LivibankAnsApplication --logging.config=./config/logback.xml -Dspring.config.location=./config/liviBankAns.yaml
